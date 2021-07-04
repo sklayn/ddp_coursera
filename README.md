@@ -1,4 +1,4 @@
-# Shiny app - bathing water status - Europe
+# Bathing water status - Europe - Shiny app
 ## Course project - Developing Data Products, Coursera
 
 This is the code for the Shiny app I made for my final course project of the course "Developing Data Products" on Coursera.
